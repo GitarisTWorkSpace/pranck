@@ -16,6 +16,11 @@
     align-items: center;
 }
 
+.video{
+    width: 640px;
+    height: 360px;
+}
+
 .title{
     font-size: 50px;
     font-weight: 700;
